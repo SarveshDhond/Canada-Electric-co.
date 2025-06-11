@@ -8,7 +8,7 @@ The company has significant amounts of data on its customer usage patterns, weat
 - Programming language &rarr; Python [Pandas / Seaborn]
 - IDE &rarr; Jupyter Notebook
 
-## AREAS OF KEY INSIGHT'S
+## AREAS OF KEY INSIGHT
 - Weekly consumption
 - Daily usage patterns
 

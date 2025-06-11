@@ -5,8 +5,8 @@ This project documents and analyze the electricty usage pattern Canada Electric 
 The company has significant amounts of data on its customer usage patterns, weather conditions, and power zones. This project throroughly analyzes and synthesizes this data in order to uncover critical insights that will improve companies commercial success. 
 
 ## TECH STACK
-- Programming language -> Python [Pandas / Seaborn]
-- IDE -> Jupyter Notebook
+- Programming language &rarr; Python [Pandas / Seaborn]
+- IDE &rarr; Jupyter Notebook
 
 ## AREAS OF KEY INSIGHT'S
 - Weekly consumption

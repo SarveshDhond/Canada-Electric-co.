@@ -1,6 +1,6 @@
 # CANADA ELECTRIC COMPANY - ELECTRICTY USAGE ANALYSIS  
 
-## OVERWIER
+## OVERVIEW
 This project documents and analyze the electricty usage pattern Canada Electric co., the primary electricity provider serving Peterborough, Ontario and surrounding rural communities since 1971.
 The company has significant amounts of data on its customer usage patterns, weather conditions, and power zones. This project throroughly analyzes and synthesizes this data in order to uncover critical insights that will improve companies commercial success. 
 
